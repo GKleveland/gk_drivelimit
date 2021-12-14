@@ -18,7 +18,7 @@ Copyright 2021 GKleveland
 
 ]]--
 
-fx_version 'adamant'
+fx_version 'cerulean'
 
 game 'gta5'
 
