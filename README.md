@@ -8,3 +8,6 @@ Fart begrænsning's script
 
 # Features
 - Sæt fart begrænsning til 50, 80, 100 og 130 km/t.
+
+# Discord
+- Join min discord: https://discord.gg/c4zHbasfW7
